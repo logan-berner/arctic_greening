@@ -1,2 +1,2 @@
 # arctic_greening
-Analysis of tundra "greenness" across the Arctic tundra biome (Berner et al. 2020 Nature Communications)
+Code associated with the circum-arctic analysis of tundra "greenness" presented by Berner et al. (2020) in Nature Communications. 
